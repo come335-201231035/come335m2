@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_cf2de255fc12ee58121a1f4ac38d0a386c88eb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_3809807b3a023bfa244dc4d61cfcefcfb304ece4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_ef4d51fe04c06605de47f0d1e389f5e4f237bfeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_9bece7d1322364f3b7b47657e9d3cab875023499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_a68c2b16bc71cd4954050b2b99824c2e5e6143b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f050b25f2c164a239462990b42bf7f9553b0de74">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_92ea6e426fe93753712a5a5a4c303b5bcc834b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_1f607118e13f7432bb0279fe0b3b70e186d8f724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Pc\Desktop\Otherss\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_622058fa8cba201e0a3c71f4d8fc0b68766f6614\classes.dex" />
+    </item>
+
+</items>
